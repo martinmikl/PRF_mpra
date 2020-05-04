@@ -1,0 +1,7 @@
+aa,"{'n_estimators': 140, 'learning_rate': 0.02, 'max_depth': 3}"
+all,"{'n_estimators': 20, 'learning_rate': 0.13999999999999999, 'max_depth': 2}"
+dg,"{'n_estimators': 20, 'learning_rate': 0.13999999999999999, 'max_depth': 2}"
+all_no_dg_nosec,"{'n_estimators': 200, 'learning_rate': 0.02, 'max_depth': 2}"
+all_no_dg,"{'n_estimators': 200, 'learning_rate': 0.02, 'max_depth': 2}"
+sec,"{'n_estimators': 50, 'learning_rate': 0.099999999999999992, 'max_depth': 2}"
+tai,"{'n_estimators': 350, 'learning_rate': 0.02, 'max_depth': 2}"
